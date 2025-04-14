@@ -1,0 +1,3564 @@
+
+{
+   
+    "data": 
+    {
+        "sections": [
+          {
+            "section_id": "23089",
+            "section_name": "01.01 Demo / Clean Up",
+            "items": [
+              {
+                "subject": "Debris Removal - General Labor",
+                "quantity": "1",
+                "unit": "Hrs",
+                "unit_cost": "500000",
+                "apply_global_tax": "1",
+                "item_type_name": "Equipment",
+                "cost_code": "Planting Irrigation"
+              },
+              {
+                "subject": "Debris Removal - General Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "100000",
+                "apply_global_tax": "1",
+                "item_type_name": "Material",
+                "cost_code": ""
+              },
+              {
+                "subject": "Dumpster",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "80000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              },
+              {
+                "subject": "Portable Restroom",
+                "quantity": "1",
+                "unit": "month",
+                "unit_cost": "20000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23090",
+            "section_name": "02.01 Masonry - Foundation/Crawl/Basement/Slabs - Block or Poured",
+            "items": [
+              {
+                "subject": "Backfill Labor",
+                "quantity": "200",
+                "unit": "l. f.",
+                "unit_cost": "100",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Block Labor",
+                "quantity": "1000",
+                "unit": "each",
+                "unit_cost": "800",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Block Material",
+                "quantity": "1000",
+                "unit": "each",
+                "unit_cost": "200",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              },
+              {
+                "subject": "Concrete Slabs Labor",
+                "quantity": "5000",
+                "unit": "sq. ft.",
+                "unit_cost": "800",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Excavation",
+                "quantity": "1000",
+                "unit": "sq. ft.",
+                "unit_cost": "2000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Footings Labor",
+                "quantity": "200",
+                "unit": "l. f.",
+                "unit_cost": "2500",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Footings Material",
+                "quantity": "200",
+                "unit": "l. f.",
+                "unit_cost": "500",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              },
+              {
+                "subject": "Poured Wall Labor",
+                "quantity": "200",
+                "unit": "l. f.",
+                "unit_cost": "5000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Poured Wall Material",
+                "quantity": "200",
+                "unit": "l. f.",
+                "unit_cost": "2500",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              },
+              {
+                "subject": "Sonotube",
+                "quantity": "10",
+                "unit": "each",
+                "unit_cost": "25000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23091",
+            "section_name": "02.02 Masonry - Foundation Repair",
+            "items": [
+              {
+                "subject": "Masonry Foundation Repair Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "25000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Masonry Foundation Repair Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "25000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23092",
+            "section_name": "03.01 Framing - Walls and Partitions ",
+            "items": [
+              {
+                "subject": "Wall Framing - Labor",
+                "quantity": "2500",
+                "unit": "sq. ft.",
+                "unit_cost": "1500",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Wall Framing - Material",
+                "quantity": "2500",
+                "unit": "sq. ft.",
+                "unit_cost": "2500",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23093",
+            "section_name": "03.02 Framing - Deck",
+            "items": [
+              {
+                "subject": "Deck - Labor",
+                "quantity": "500",
+                "unit": "sq. ft.",
+                "unit_cost": "1400",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Deck - Material",
+                "quantity": "500",
+                "unit": "sq. ft.",
+                "unit_cost": "1400",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23094",
+            "section_name": "03.02A Framing - Deck Allowance",
+            "items": [
+              {
+                "subject": "Deck - Material Allowance",
+                "quantity": "1",
+                "unit": "sq. ft.",
+                "unit_cost": "50000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Deck - Railing Allowance",
+                "quantity": "1",
+                "unit": "l. f.",
+                "unit_cost": "10000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23095",
+            "section_name": "04.01 Roofing",
+            "items": [
+              {
+                "subject": "Roofing - Labor",
+                "quantity": "25",
+                "unit": "square",
+                "unit_cost": "15000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Roofing - Material",
+                "quantity": "25",
+                "unit": "square",
+                "unit_cost": "30000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23096",
+            "section_name": "05.01 Siding - Exterior Wall",
+            "items": [
+              {
+                "subject": "Exterior Wall Siding - Labor",
+                "quantity": "25",
+                "unit": "square",
+                "unit_cost": "25000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Exterior Wall Siding - Material",
+                "quantity": "25",
+                "unit": "square",
+                "unit_cost": "25000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23097",
+            "section_name": "05.02 Siding - Exterior Soffits, Fascia, Rake Boards, & Trim",
+            "items": [
+              {
+                "subject": "Fascia Labor",
+                "quantity": "200",
+                "unit": "l. f.",
+                "unit_cost": "300",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Fascia Material",
+                "quantity": "200",
+                "unit": "l. f.",
+                "unit_cost": "200",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              },
+              {
+                "subject": "Shutters Labor",
+                "quantity": "8",
+                "unit": "each",
+                "unit_cost": "5000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Shutters Material",
+                "quantity": "8",
+                "unit": "each",
+                "unit_cost": "5000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              },
+              {
+                "subject": "Soffits/Trim Labor",
+                "quantity": "200",
+                "unit": "l. f.",
+                "unit_cost": "1500",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Soffits/Trim Material",
+                "quantity": "200",
+                "unit": "l. f.",
+                "unit_cost": "500",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23098",
+            "section_name": "05.03 Siding - Stone",
+            "items": [
+              {
+                "subject": "Stone Siding Labor",
+                "quantity": "500",
+                "unit": "Hrs",
+                "unit_cost": "2000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Stone Siding Material",
+                "quantity": "500",
+                "unit": "sq. ft.",
+                "unit_cost": "500",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23099",
+            "section_name": "05.03A Siding - Stone Allowance",
+            "items": [
+              {
+                "subject": "Stone Siding Allowance",
+                "quantity": "500",
+                "unit": "sq. ft.",
+                "unit_cost": "1500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23100",
+            "section_name": "05.04 Siding - Exterior Columns",
+            "items": [
+              {
+                "subject": "Exterior Column Labor",
+                "quantity": "1",
+                "unit": "sq. ft.",
+                "unit_cost": "50000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Exterior Column Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "60000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23101",
+            "section_name": "06.01 Windows - Entire House",
+            "items": [
+              {
+                "subject": "Full Home Window Labor",
+                "quantity": "20",
+                "unit": "each",
+                "unit_cost": "20000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Full Home Window Material",
+                "quantity": "20",
+                "unit": "each",
+                "unit_cost": "50000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23102",
+            "section_name": "06.02 Windows - Addition",
+            "items": [
+              {
+                "subject": "Addition Window Labor",
+                "quantity": "8",
+                "unit": "each",
+                "unit_cost": "20000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Addition Window Material",
+                "quantity": "8",
+                "unit": "each",
+                "unit_cost": "50000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23103",
+            "section_name": "06.03 Windows - Bathroom",
+            "items": [
+              {
+                "subject": "Bathroom Window Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "20000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Bathroom Window Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "50000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23104",
+            "section_name": "06.04 Windows - Kitchen",
+            "items": [
+              {
+                "subject": "Kitchen Window Labor",
+                "quantity": "4",
+                "unit": "each",
+                "unit_cost": "20000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Kitchen Window Material",
+                "quantity": "4",
+                "unit": "each",
+                "unit_cost": "50000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23105",
+            "section_name": "06.05 Windows - Basement",
+            "items": [
+              {
+                "subject": "Basement Window Labor",
+                "quantity": "4",
+                "unit": "each",
+                "unit_cost": "20000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Basement Window Material",
+                "quantity": "4",
+                "unit": "each",
+                "unit_cost": "50000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23106",
+            "section_name": "07.01 Exterior Doors - Front",
+            "items": [
+              {
+                "subject": "Front Door Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "150000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Front Door Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "30000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23107",
+            "section_name": "07.01A Exterior Doors - Front Allowance",
+            "items": [
+              {
+                "subject": "Front Door - Door Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "250000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Front Door - Lockset Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "20000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23108",
+            "section_name": "07.02 Exterior Doors - Sliding",
+            "items": [
+              {
+                "subject": "Sliding Glass Door Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "75000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Sliding Glass Door Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "125000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23109",
+            "section_name": "07.02A Exterior Doors - Sliding Allowance",
+            "items": [
+              {
+                "subject": "Sliding Glass Door - Door Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "250000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23110",
+            "section_name": "07.03 Exterior Doors - Garage",
+            "items": [
+              {
+                "subject": "Garage Doors Labor",
+                "quantity": "2",
+                "unit": "each",
+                "unit_cost": "150000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Garage Doors Material",
+                "quantity": "2",
+                "unit": "each",
+                "unit_cost": "50000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23111",
+            "section_name": "07.03A Exterior Doors - Garage Allowance",
+            "items": [
+              {
+                "subject": "Garage Doors - Door Allowance",
+                "quantity": "2",
+                "unit": "each",
+                "unit_cost": "150000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23112",
+            "section_name": "07.04 Exterior Doors - Side",
+            "items": [
+              {
+                "subject": "Side Entrance Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "75000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Side Entrance Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "15000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23113",
+            "section_name": "07.04A Exterior Doors - Side Allowance",
+            "items": [
+              {
+                "subject": "Side Entrance - Door Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "250000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Side Entrance - Lockset Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "15000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23114",
+            "section_name": "07.05 Exterior Doors - Misc",
+            "items": [
+              {
+                "subject": "Misc. Exterior Door Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "150000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Misc. Exterior Door Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "30000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23115",
+            "section_name": "07.05A Exterior Doors - Misc Allowance",
+            "items": [
+              {
+                "subject": "Misc. Exterior Door  - Door Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "250000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Misc. Exterior Door  - Lockset Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "20000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23116",
+            "section_name": "07.06 Exterior Doors - Bilco",
+            "items": [
+              {
+                "subject": "Bilco Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "85000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Bilco Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "100000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23117",
+            "section_name": "07.07 Exterior Doors - Basement",
+            "items": [
+              {
+                "subject": "Exterior Basement Door Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "150000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Exterior Basement Door Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "30000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23118",
+            "section_name": "07.07A Exterior Doors - Basement Allowance",
+            "items": [
+              {
+                "subject": "Exterior Basement Door - Door Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "250000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Exterior Basement Door - Lockset Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "20000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23119",
+            "section_name": "07.08 Exterior Doors - Dining",
+            "items": [
+              {
+                "subject": "Exterior Dining Room Door Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "150000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Exterior Dining Room Door Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "30000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23120",
+            "section_name": "07.08A Exterior Doors - Dining Allowance",
+            "items": [
+              {
+                "subject": "Exterior Dining Room Door - Door Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "250000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Exterior Dining Room Door - Door Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "20000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23121",
+            "section_name": "08.01 Gutters/Downspouts - Exterior",
+            "items": [
+              {
+                "subject": "Gutters / Downspouts - Labor",
+                "quantity": "200",
+                "unit": "l. f.",
+                "unit_cost": "700",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Gutters / Downspouts Material",
+                "quantity": "200",
+                "unit": "l. f.",
+                "unit_cost": "500",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23122",
+            "section_name": "09.01 Plumbing - Entire House",
+            "items": [
+              {
+                "subject": "Entire House Plumbing Labor",
+                "quantity": "2500",
+                "unit": "sq. ft.",
+                "unit_cost": "700",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Entire House Plumbing Material",
+                "quantity": "2500",
+                "unit": "sq. ft.",
+                "unit_cost": "300",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23123",
+            "section_name": "09.02 Plumbing - 1/2 Bath",
+            "items": [
+              {
+                "subject": "1/2 Bath Plumbing Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "150000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "1/2 Bath Plumbing Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "25000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23124",
+            "section_name": "09.02A Plumbing - 1/2 Bath Allowance",
+            "items": [
+              {
+                "subject": "1/2 Bath Plumbing - Faucet Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "20000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "1/2 Bath Plumbing - Toilet Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "25000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23125",
+            "section_name": "09.03 Plumbing - Guest Bathroom",
+            "items": [
+              {
+                "subject": "Guest Bathroom Fiberglass Shower Pan",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "70000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Guest Bathroom Plumbing Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "300000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Guest Bathroom Plumbing Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "100000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23126",
+            "section_name": "09.03A Plumbing - Guest Bathroom Allowance",
+            "items": [
+              {
+                "subject": "Guest Bathroom Plumbing - Tub Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "25000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Guest Bathroom Plumbing - Shower Head and Trim Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "25000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Guest Bathroom Plumbing - Faucet Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "20000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Guest Bathroom Plumbing - Toilet Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "25000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23127",
+            "section_name": "09.04 Plumbing - Master Bathroom",
+            "items": [
+              {
+                "subject": "Master Bathroom Fiberglass Shower Pan",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "70000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Master Bathroom Plumbing Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "500000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Master Bathroom Plumbing Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "100000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23128",
+            "section_name": "09.04A Plumbing - Master Bathroom Allowance",
+            "items": [
+              {
+                "subject": "Master Bathroom Plumbing - Tub Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "100000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Master Bathroom Plumbing - Shower Head and Trim Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "35000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Master Bathroom Plumbing - Faucet Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "20000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Master Bathroom Plumbing - Toilet Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "25000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23129",
+            "section_name": "09.05 Plumbing - Basement Bathroom",
+            "items": [
+              {
+                "subject": "Basement Bathroom Fiberglass Shower Pan",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "70000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Basement Bathroom Plumbing Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "300000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Basement Bathroom Plumbing Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "100000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23130",
+            "section_name": "09.05A Plumbing - Basement Bathroom Allowance",
+            "items": [
+              {
+                "subject": "Basement Bathroom Plumbing - Shower Head and Trim Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "25000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Basement Bathroom Plumbing - Faucet Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "20000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Basement Bathroom Plumbing - Toilet Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "25000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23131",
+            "section_name": "09.06 Plumbing - Kitchen",
+            "items": [
+              {
+                "subject": "Kitchen Ice Maker Plumbing Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "50000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Kitchen Ice Maker Plumbing Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "50000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              },
+              {
+                "subject": "Kitchen Plumbing Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "75000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Kitchen Plumbing Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "15000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              },
+              {
+                "subject": "Kitchen Pot Filler Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "50000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Kitchen Pot Filler Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "25000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23132",
+            "section_name": "09.06A Plumbing - Kitchen Allowance",
+            "items": [
+              {
+                "subject": "Kitchen Plumbing - Sink Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "50000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Kitchen Plumbing - Faucet Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "25000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Kitchen Plumbing - Pot Filler Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "25000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23133",
+            "section_name": "09.07 Plumbing - Bar",
+            "items": [
+              {
+                "subject": "Bar Ice Maker Plumbing Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "50000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Bar Ice Maker Plumbing Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "50000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              },
+              {
+                "subject": "Bar Sink Plumbing Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "75000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Bar Sink Plumbing Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "25000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23134",
+            "section_name": "09.07A Plumbing - Bar Allowance",
+            "items": [
+              {
+                "subject": "Bar Plumbing - Sink Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "30000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Bar Plumbing - Faucet Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "15000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23135",
+            "section_name": "09.08 Plumbing - Basmenent",
+            "items": [
+              {
+                "subject": "Basement Plumbing Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "75000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Basement Plumbing Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "125000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              },
+              {
+                "subject": "Basement Pump Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "250000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Basement Pump Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "100000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23136",
+            "section_name": "09.09 Plumbing - Water Heater",
+            "items": [
+              {
+                "subject": "Water Heater Plumbing Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "100000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Water Heater Plumbing Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "150000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23137",
+            "section_name": "10.01 Electrical - Full Home",
+            "items": [
+              {
+                "subject": "Full Home Electrical Wiring Labor",
+                "quantity": "2500",
+                "unit": "sq. ft.",
+                "unit_cost": "400",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Full Home Electrical Wiring Material",
+                "quantity": "2500",
+                "unit": "sq. ft.",
+                "unit_cost": "250",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23138",
+            "section_name": "10.02 Electrical - Recessed Lighting",
+            "items": [
+              {
+                "subject": "Recessed Lighting Labor",
+                "quantity": "50",
+                "unit": "each",
+                "unit_cost": "15000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Recessed Lighting Material",
+                "quantity": "50",
+                "unit": "each",
+                "unit_cost": "5000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23139",
+            "section_name": "10.03 Electrical - Fans",
+            "items": [
+              {
+                "subject": "Fans Electrical Labor",
+                "quantity": "5",
+                "unit": "each",
+                "unit_cost": "25000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Fans Electrical Material",
+                "quantity": "5",
+                "unit": "each",
+                "unit_cost": "2500",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23140",
+            "section_name": "10.03A Electrical - Fans Allowance",
+            "items": [
+              {
+                "subject": "Fans Electrical - Fan Allowance",
+                "quantity": "5",
+                "unit": "each",
+                "unit_cost": "20000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23141",
+            "section_name": "10.04 Electrical - Light Fixtures",
+            "items": [
+              {
+                "subject": "Light Fixtures Material",
+                "quantity": "30",
+                "unit": "each",
+                "unit_cost": "2000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              },
+              {
+                "subject": "Light Fixtures Labor",
+                "quantity": "30",
+                "unit": "each",
+                "unit_cost": "7500",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23142",
+            "section_name": "10.04A Electrical - Light Fixtures Allowance",
+            "items": [
+              {
+                "subject": "Light Fixtures - Light Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "200000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23143",
+            "section_name": "10.05 Electrical - Chandelier",
+            "items": [
+              {
+                "subject": "Chandelier Electrical Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "35000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Chandelier Electrical Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "5000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23144",
+            "section_name": "10.05A Electrical - Chandelier Allowance",
+            "items": [
+              {
+                "subject": "Chandelier Electrical - Chandelier Allowance ",
+                "quantity": "2",
+                "unit": "each",
+                "unit_cost": "30000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23145",
+            "section_name": "10.06 Electrical - Bathroom Exhaust",
+            "items": [
+              {
+                "subject": "Bathroom Exhaust Fan Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "2500",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              },
+              {
+                "subject": "Bathroom Exhaust Fans Electrical Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "30000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23146",
+            "section_name": "10.06A Electrical - Bathroom Exhaust Allowance",
+            "items": [
+              {
+                "subject": "Bathroom Exhaust - Fan Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "15000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23147",
+            "section_name": "10.07 Electrical - Bathroom",
+            "items": [
+              {
+                "subject": "Bathroom Electrical Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "150000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Bathroom Electrical Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "50000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23148",
+            "section_name": "10.07A Electrical - Bathroom Allowance",
+            "items": [
+              {
+                "subject": "Bathroom Electrical - Vanity Light Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "7500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23149",
+            "section_name": "10.08 Electrical - Basement",
+            "items": [
+              {
+                "subject": "Basement Electrical Wiring Labor",
+                "quantity": "2500",
+                "unit": "sq. ft.",
+                "unit_cost": "400",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Basement Electrical Wiring Material",
+                "quantity": "2500",
+                "unit": "sq. ft.",
+                "unit_cost": "250",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23150",
+            "section_name": "10.09 Electrical - Kitchen",
+            "items": [
+              {
+                "subject": "Kitchen Electrical Labor",
+                "quantity": "2500",
+                "unit": "sq. ft.",
+                "unit_cost": "400",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Kitchen Electrical Material",
+                "quantity": "2500",
+                "unit": "sq. ft.",
+                "unit_cost": "250",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23151",
+            "section_name": "10.09A Electrical - Kitchen Allowance",
+            "items": [
+              {
+                "subject": "Kitchen Electrical - Recessed Lighting Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "200000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Kitchen Electrical - Pendant Lighting Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "200000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Kitchen Electrical - Chandelier Allowance",
+                "quantity": "2",
+                "unit": "each",
+                "unit_cost": "30000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23152",
+            "section_name": "10.10 Electrical - Undercabninet ",
+            "items": [
+              {
+                "subject": "Undercabinet Electrical Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "150000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Undercabinet Electrical Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "50000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23153",
+            "section_name": "11.01 HVAC - Full System",
+            "items": [
+              {
+                "subject": "HVAC Full System Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "1000000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "HVAC Full System Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "750000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23154",
+            "section_name": "11.02 HVAC - Basement",
+            "items": [
+              {
+                "subject": "HVAC Basement Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "50000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "HVAC Basement Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "25000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23155",
+            "section_name": "12.01 Insulation - Ceiling",
+            "items": [
+              {
+                "subject": "Ceiling Insulation Labor",
+                "quantity": "2500",
+                "unit": "sq. ft.",
+                "unit_cost": "200",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Ceiling Insulation Material",
+                "quantity": "2500",
+                "unit": "sq. ft.",
+                "unit_cost": "200",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23156",
+            "section_name": "12.02 Insulation - Wall",
+            "items": [
+              {
+                "subject": "Wall Insulation Labor",
+                "quantity": "2500",
+                "unit": "sq. ft.",
+                "unit_cost": "200",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Wall Insulation Material",
+                "quantity": "2500",
+                "unit": "sq. ft.",
+                "unit_cost": "200",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23157",
+            "section_name": "12.03 Insulation - Basement Ceiling",
+            "items": [
+              {
+                "subject": "Basement Ceiling Insulation Labor",
+                "quantity": "2500",
+                "unit": "sq. ft.",
+                "unit_cost": "200",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Basement Ceiling Insulation Material",
+                "quantity": "2500",
+                "unit": "sq. ft.",
+                "unit_cost": "200",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23158",
+            "section_name": "13.01 Drywall as per plan",
+            "items": [
+              {
+                "subject": "Drywall Labor",
+                "quantity": "250",
+                "unit": "each",
+                "unit_cost": "2500",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Drywall Material",
+                "quantity": "250",
+                "unit": "each",
+                "unit_cost": "3000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23159",
+            "section_name": "14.01 Paint - Exterior",
+            "items": [
+              {
+                "subject": "Painting Exterior Labor",
+                "quantity": "2500",
+                "unit": "sq. ft.",
+                "unit_cost": "300",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Painting Exterior Material",
+                "quantity": "2500",
+                "unit": "sq. ft.",
+                "unit_cost": "100",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23160",
+            "section_name": "14.02 Paint - Interior",
+            "items": [
+              {
+                "subject": "Painting Interior Labor",
+                "quantity": "2500",
+                "unit": "sq. ft.",
+                "unit_cost": "300",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Painting Interior Material",
+                "quantity": "2500",
+                "unit": "sq. ft.",
+                "unit_cost": "100",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23161",
+            "section_name": "15.01 Flooring - Carpet",
+            "items": [
+              {
+                "subject": "Carpet Labor",
+                "quantity": "150",
+                "unit": "sq. yd.",
+                "unit_cost": "600",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Carpet Material",
+                "quantity": "150",
+                "unit": "sq. yd.",
+                "unit_cost": "100",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23162",
+            "section_name": "15.01A Flooring - Carpet Allowance",
+            "items": [
+              {
+                "subject": "Carpet Allowance",
+                "quantity": "100",
+                "unit": "sq. yd.",
+                "unit_cost": "2000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23163",
+            "section_name": "15.02 Flooring - Vinyl",
+            "items": [
+              {
+                "subject": "Vinyl Floor Labor",
+                "quantity": "2500",
+                "unit": "sq. ft.",
+                "unit_cost": "200",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Vinyl Floor Material",
+                "quantity": "2500",
+                "unit": "sq. ft.",
+                "unit_cost": "100",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23164",
+            "section_name": "15.02A Flooring - Vinyl Allowance",
+            "items": [
+              {
+                "subject": "Vinyl Floor Allowance",
+                "quantity": "1000",
+                "unit": "sq. ft.",
+                "unit_cost": "350",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23165",
+            "section_name": "15.03 Flooring - Wood",
+            "items": [
+              {
+                "subject": "Wood Floors Labor",
+                "quantity": "2500",
+                "unit": "sq. ft.",
+                "unit_cost": "600",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Wood Floors Material",
+                "quantity": "2500",
+                "unit": "sq. ft.",
+                "unit_cost": "100",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23166",
+            "section_name": "15.03A Flooring - Wood Allowance",
+            "items": [
+              {
+                "subject": "Wood Floors Allowance",
+                "quantity": "3500",
+                "unit": "sq. ft.",
+                "unit_cost": "500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23167",
+            "section_name": "16.01 Interior Doors",
+            "items": [
+              {
+                "subject": "Interior Door Labor",
+                "quantity": "20",
+                "unit": "each",
+                "unit_cost": "15000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Interior Door Material",
+                "quantity": "20",
+                "unit": "each",
+                "unit_cost": "2000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23168",
+            "section_name": "16.01A Interior Doors Allowance",
+            "items": [
+              {
+                "subject": "Interior Door - Door Allowance",
+                "quantity": "20",
+                "unit": "each",
+                "unit_cost": "15000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Interior Door - Lockset Allowance",
+                "quantity": "20",
+                "unit": "each",
+                "unit_cost": "1500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23169",
+            "section_name": "17.01 Trim - Base Molding",
+            "items": [
+              {
+                "subject": "Base Molding Trim Labor",
+                "quantity": "300",
+                "unit": "l. f.",
+                "unit_cost": "600",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Base Molding Trim Material",
+                "quantity": "300",
+                "unit": "l. f.",
+                "unit_cost": "50",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23170",
+            "section_name": "17.01A Trim - Base Molding Allowance",
+            "items": [
+              {
+                "subject": "Base Molding Trim Allowance",
+                "quantity": "300",
+                "unit": "l. f.",
+                "unit_cost": "150",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23171",
+            "section_name": "17.02 Trim - Crown Molding",
+            "items": [
+              {
+                "subject": "Crown Molding Labor",
+                "quantity": "300",
+                "unit": "l. f.",
+                "unit_cost": "600",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Crown Molding Material",
+                "quantity": "300",
+                "unit": "l. f.",
+                "unit_cost": "50",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23172",
+            "section_name": "17.02A Trim - Crown Molding Allowance",
+            "items": [
+              {
+                "subject": "Crown Molding Material",
+                "quantity": "300",
+                "unit": "l. f.",
+                "unit_cost": "500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23173",
+            "section_name": "17.03 Trim - Window / Door Trim ",
+            "items": [
+              {
+                "subject": "Window / Door Trim Labor",
+                "quantity": "300",
+                "unit": "l. f.",
+                "unit_cost": "400",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Window / Door Trim Material",
+                "quantity": "300",
+                "unit": "l. f.",
+                "unit_cost": "50",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23174",
+            "section_name": "17.03A Trim - Window / Door Trim Allowance",
+            "items": [
+              {
+                "subject": "Window / Door Trim Allowance",
+                "quantity": "300",
+                "unit": "l. f.",
+                "unit_cost": "100",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23175",
+            "section_name": "18.01 Stairs - Stairs",
+            "items": [
+              {
+                "subject": "Stairs Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "150000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Stairs Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "250000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23176",
+            "section_name": "18.02 Stairs - Railing",
+            "items": [
+              {
+                "subject": "Railing Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "150000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Railing Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "250000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23177",
+            "section_name": "19.01 Tile - Guest Bathroom",
+            "items": [
+              {
+                "subject": "Guest Bathroom Floor Tiling Labor",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "1200",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Guest Bathroom Floor Tiling Material",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "200",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              },
+              {
+                "subject": "Guest Bathroom Shower Floor Tiling Labor",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "1200",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Guest Bathroom Shower Floor Tiling Material",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "200",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              },
+              {
+                "subject": "Guest Bathroom Shower Walls Tiling Labor",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "1200",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Guest Bathroom Shower Walls Tiling Material",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "200",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23178",
+            "section_name": "19.01A Tile - Guest Bathroom Allowance",
+            "items": [
+              {
+                "subject": "Guest Bathroom - Floor Tile Allowance",
+                "quantity": "100",
+                "unit": "sq. ft.",
+                "unit_cost": "500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Guest Bathroom - Shower Floor Tile Allowance",
+                "quantity": "100",
+                "unit": "sq. ft.",
+                "unit_cost": "500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Guest Bathroom - Floor Tile Allowance",
+                "quantity": "100",
+                "unit": "sq. ft.",
+                "unit_cost": "1500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23179",
+            "section_name": "19.02 Tile - Master Bathroom",
+            "items": [
+              {
+                "subject": "Master Bathroom Floor Tiling Labor",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "1200",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Master Bathroom Floor Tiling Material",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "200",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              },
+              {
+                "subject": "Master Bathroom Shower Floor Tiling Labor",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "1200",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Master Bathroom Shower Floor Tiling Material",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "200",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              },
+              {
+                "subject": "Master Bathroom Shower Walls Tiling Labor",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "1200",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Master Bathroom Shower Walls Tiling Material",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "200",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23180",
+            "section_name": "19.02A Tile - Master Bathroom Allowance",
+            "items": [
+              {
+                "subject": "Master Bathroom - Floor Tile Allowance",
+                "quantity": "100",
+                "unit": "sq. ft.",
+                "unit_cost": "500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Master Bathroom - Shower Floor Tile Allowance",
+                "quantity": "100",
+                "unit": "sq. ft.",
+                "unit_cost": "500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Master Bathroom - Floor Tile Allowance",
+                "quantity": "100",
+                "unit": "sq. ft.",
+                "unit_cost": "1500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23181",
+            "section_name": "19.03 Tile - Basement Bathroom",
+            "items": [
+              {
+                "subject": "Basement Bathroom Shower Floor Tiling Labor",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "1200",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Basement Bathroom Shower Floor Tiling Material",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "200",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              },
+              {
+                "subject": "Basement Bathroom Shower Walls Tiling Labor",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "1200",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Basement Bathroom Shower Walls Tiling Material",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "200",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23182",
+            "section_name": "19.03A Tile - Basement Bathroom Allowance",
+            "items": [
+              {
+                "subject": "Basement Bathroom - Floor Tile Allowance",
+                "quantity": "100",
+                "unit": "sq. ft.",
+                "unit_cost": "500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Basement Bathroom - Shower Floor Tile Allowance",
+                "quantity": "100",
+                "unit": "sq. ft.",
+                "unit_cost": "500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Basement Bathroom - Floor Tile Allowance",
+                "quantity": "100",
+                "unit": "sq. ft.",
+                "unit_cost": "1500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23183",
+            "section_name": "19.04 Tile - Kitchen",
+            "items": [
+              {
+                "subject": "Kitchen Floor Tiling Labor",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "1200",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Kitchen Floor Tiling Material",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "200",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              },
+              {
+                "subject": "Kitchen Backsplash Tiling Labor",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "1200",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Kitchen Backsplash Tiling Material",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "200",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23184",
+            "section_name": "19.04A Tile - Kitchen Allowance",
+            "items": [
+              {
+                "subject": "Kitchen Floor Tiling Material",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Kitchen Backsplash Tiling Material",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "1500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23185",
+            "section_name": "19.05 Tile - Laundry",
+            "items": [
+              {
+                "subject": "Laundry Tiling Labor",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "1200",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Laundry Tiling Material",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "200",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23186",
+            "section_name": "19.05A Tile - Laundry Allowance",
+            "items": [
+              {
+                "subject": "Laundry Tiling Allowance",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23187",
+            "section_name": "19.06 Tile - Bar",
+            "items": [
+              {
+                "subject": "Bar Backsplash Tiling Labor",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "1200",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Bar Backsplash Tiling Material",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "200",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23188",
+            "section_name": "19.06A Tile - Bar Allowance",
+            "items": [
+              {
+                "subject": "Bar Backsplash Allowance",
+                "quantity": "50",
+                "unit": "sq. ft.",
+                "unit_cost": "1500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23189",
+            "section_name": "20.01 Bathroom Accessories - 1/2 Bathroom",
+            "items": [
+              {
+                "subject": "1/2 Bathroom Accessories Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "50000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "1/2 Bathroom Accessories Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "5000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23190",
+            "section_name": "20.01A Bathroom Accessories - 1/2 Bathroom Allowance",
+            "items": [
+              {
+                "subject": "1/2 Bathroom - Vanity Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "100000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "1/2 Bathroom - Towel Rack and TP Holder Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "10000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "1/2 Bathroom - Mirror Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "10000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23191",
+            "section_name": "20.02 Bathroom Accessories - Guest Bathroom",
+            "items": [
+              {
+                "subject": "Guest Bathroom Accessories Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "50000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Guest Bathroom Accessories Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "5000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              },
+              {
+                "subject": "Guest Bathroom Frameless Glass Shower Door Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "75000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Guest Bathroom Framless Glass Shower Door Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "90000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23192",
+            "section_name": "20.02A Bathroom Accessories - Guest Bathroom Allowance",
+            "items": [
+              {
+                "subject": "Guest Bathroom - Vanity Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "100000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Guest Bathroom - Towel Rack and TP Holder Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "10000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Guest Bathroom - Mirror Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "10000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23193",
+            "section_name": "20.03 Bathroom Accessories - Master Bathroom",
+            "items": [
+              {
+                "subject": "Master Bathroom Accessories Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "50000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Master Bathroom Accessories Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "5000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              },
+              {
+                "subject": "Master Bathroom Frameless Glass Shower Door Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "75000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Master Bathroom Frameless Glass Shower Door Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "90000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23194",
+            "section_name": "20.03A Bathroom Accessories - Master Bathroom Allowance",
+            "items": [
+              {
+                "subject": "Master Bathroom - Vanity Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "250000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Master Bathroom - Towel Rack and TP Holder Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "20000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Master Bathroom - Mirror Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "20000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23195",
+            "section_name": "20.04 Bathroom Accessories - Basement Bathroom",
+            "items": [
+              {
+                "subject": "Basement Bathroom Accessories Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "50000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Basement Bathroom Accessories Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "5000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              },
+              {
+                "subject": "Basement Bathroom Frameless Glass Shower Door Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "75000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Basement Bathroom Frameless Glass Shower Door Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "90000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23196",
+            "section_name": "20.02A Bathroom Accessories - Basement Bathroom Allowance",
+            "items": [
+              {
+                "subject": "Basement Bathroom - Vanity Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "100000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Basement Bathroom - Towel Rack and TP Holder Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "10000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Basement Bathroom - Mirror Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "10000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23197",
+            "section_name": "21.01 Cabinetry - Kitchen",
+            "items": [
+              {
+                "subject": "Kitchen Cabinetry Labor",
+                "quantity": "20",
+                "unit": "each",
+                "unit_cost": "25000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Kitchen Cabinetry Material",
+                "quantity": "20",
+                "unit": "each",
+                "unit_cost": "1000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23198",
+            "section_name": "21.01A Cabinetry - Kitchen Allowance",
+            "items": [
+              {
+                "subject": "Kitchen Cabinetry - Cabinet Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "750000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Kitchen Cabinetry - Cabinet Knob Allowance",
+                "quantity": "20",
+                "unit": "each",
+                "unit_cost": "500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23199",
+            "section_name": "21.02 Cabinetry - Laundry",
+            "items": [
+              {
+                "subject": "Laundry Cabinetry Labor",
+                "quantity": "20",
+                "unit": "each",
+                "unit_cost": "25000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Laundry Cabinetry Material",
+                "quantity": "20",
+                "unit": "each",
+                "unit_cost": "1000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23200",
+            "section_name": "21.02A Cabinetry - Laundry Allowance",
+            "items": [
+              {
+                "subject": "Laundry Cabinetry - Cabinet Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "200000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Laundry Cabinetry - Cabinet Knob Allowance",
+                "quantity": "10",
+                "unit": "each",
+                "unit_cost": "500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23201",
+            "section_name": "21.03 Cabinetry - Office",
+            "items": [
+              {
+                "subject": "Office Cabinetry Labor",
+                "quantity": "20",
+                "unit": "each",
+                "unit_cost": "25000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Office Cabinetry Material",
+                "quantity": "20",
+                "unit": "each",
+                "unit_cost": "1000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23202",
+            "section_name": "21.03A Cabinetry - Office Allowance",
+            "items": [
+              {
+                "subject": "Office Cabinetry - Cabinet Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "200000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Office Cabinetry - Cabinet Knob Allowance",
+                "quantity": "10",
+                "unit": "each",
+                "unit_cost": "500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23203",
+            "section_name": "21.04 Cabinetry - Bar",
+            "items": [
+              {
+                "subject": "Bar Cabinetry Labor",
+                "quantity": "20",
+                "unit": "each",
+                "unit_cost": "25000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Bar Cabinetry Material",
+                "quantity": "20",
+                "unit": "each",
+                "unit_cost": "1000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23204",
+            "section_name": "21.04A Cabinetry - Bar Allowance",
+            "items": [
+              {
+                "subject": "Bar Cabinetry - Cabinet Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "200000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Bar Cabinetry - Cabinet Knob Allowance",
+                "quantity": "10",
+                "unit": "each",
+                "unit_cost": "500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23205",
+            "section_name": "21.05 Cabinetry - Fireplace",
+            "items": [
+              {
+                "subject": "Fireplace Cabinetry Labor",
+                "quantity": "20",
+                "unit": "each",
+                "unit_cost": "25000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Fireplace Cabinetry Material",
+                "quantity": "20",
+                "unit": "each",
+                "unit_cost": "1000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23206",
+            "section_name": "21.03A Cabinetry - Fireplace Allowance",
+            "items": [
+              {
+                "subject": "Fireplace Cabinetry - Cabinet Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "200000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              },
+              {
+                "subject": "Fireplace Cabinetry - Cabinet Knob Allowance",
+                "quantity": "10",
+                "unit": "each",
+                "unit_cost": "500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23207",
+            "section_name": "22.01 Countertops - Kitchen",
+            "items": [
+              {
+                "subject": "Kitchen Countertop Labor",
+                "quantity": "60",
+                "unit": "sq. ft.",
+                "unit_cost": "1000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Kitchen Countertop Material",
+                "quantity": "60",
+                "unit": "sq. ft.",
+                "unit_cost": "100",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23208",
+            "section_name": "22.01A Countertops - Kitchen Allowance",
+            "items": [
+              {
+                "subject": "Kitchen Countertop Allowance",
+                "quantity": "1",
+                "unit": "sq. ft.",
+                "unit_cost": "7500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23209",
+            "section_name": "22.02 Countertops - Laundry",
+            "items": [
+              {
+                "subject": "Laundry Countertop Labor",
+                "quantity": "60",
+                "unit": "sq. ft.",
+                "unit_cost": "1000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Laundry Countertop Material",
+                "quantity": "60",
+                "unit": "sq. ft.",
+                "unit_cost": "100",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23210",
+            "section_name": "22.02A Countertops - Laundry Allowance",
+            "items": [
+              {
+                "subject": "Laundry Countertop Allowance",
+                "quantity": "1",
+                "unit": "sq. ft.",
+                "unit_cost": "7500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23211",
+            "section_name": "22.03 Countertops - Bar",
+            "items": [
+              {
+                "subject": "Bar Countertop Labor",
+                "quantity": "60",
+                "unit": "sq. ft.",
+                "unit_cost": "1000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Bar Countertop Material",
+                "quantity": "60",
+                "unit": "sq. ft.",
+                "unit_cost": "100",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23212",
+            "section_name": "22.03A Countertops - Bar Allowance",
+            "items": [
+              {
+                "subject": "Bar Countertop Allowance",
+                "quantity": "1",
+                "unit": "sq. ft.",
+                "unit_cost": "7500",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23213",
+            "section_name": "23.01 Appliances - Kitchen",
+            "items": [
+              {
+                "subject": "Kitchen Appliance Labor",
+                "quantity": "5",
+                "unit": "each",
+                "unit_cost": "15000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Kitchen Appliance Material",
+                "quantity": "10",
+                "unit": "each",
+                "unit_cost": "2500",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23214",
+            "section_name": "23.01A Appliances - Kitchen Allowance",
+            "items": [
+              {
+                "subject": "Kitchen Appliance Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "550000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23215",
+            "section_name": "23.02 Appliances - Laundry",
+            "items": [
+              {
+                "subject": "Laundry Appliance Labor",
+                "quantity": "5",
+                "unit": "each",
+                "unit_cost": "15000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Laundry Appliance Material",
+                "quantity": "10",
+                "unit": "each",
+                "unit_cost": "2500",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23216",
+            "section_name": "23.02A Appliances - Laundry Allowance",
+            "items": [
+              {
+                "subject": "Laundry Appliance Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "150000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23217",
+            "section_name": "23.03 Appliances - Bar",
+            "items": [
+              {
+                "subject": "Bar Appliance Labor",
+                "quantity": "5",
+                "unit": "each",
+                "unit_cost": "15000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Bar Appliance Material",
+                "quantity": "10",
+                "unit": "each",
+                "unit_cost": "2500",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23218",
+            "section_name": "23.03A Appliances - Bar Allowance",
+            "items": [
+              {
+                "subject": "Bar Appliance Allowance",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "550000",
+                "apply_global_tax": "0",
+                "item_type_name": "Other",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23219",
+            "section_name": "24.01 Landscaping",
+            "items": [
+              {
+                "subject": "Landscaping Labor",
+                "quantity": "2000",
+                "unit": "sq. ft.",
+                "unit_cost": "100",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Landscaping Material",
+                "quantity": "2000",
+                "unit": "sq. ft.",
+                "unit_cost": "75",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23220",
+            "section_name": "24.02 Landscaping - Flowerbeds",
+            "items": [
+              {
+                "subject": "Flowerbeds Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "200000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Flowerbeds Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "100000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23221",
+            "section_name": "25.01 Miscellaneous - Closet",
+            "items": [
+              {
+                "subject": "Closet Labor",
+                "quantity": "3",
+                "unit": "each",
+                "unit_cost": "50000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Closet Material",
+                "quantity": "3",
+                "unit": "each",
+                "unit_cost": "30000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23222",
+            "section_name": "25.02 Miscellaneous - Fireplace",
+            "items": [
+              {
+                "subject": "Fireplace Labor",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "150000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Fireplace Material",
+                "quantity": "1",
+                "unit": "each",
+                "unit_cost": "50000",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          },
+          {
+            "section_id": "23223",
+            "section_name": "25.03 Miscellaneous - Waterproofing",
+            "items": [
+              {
+                "subject": "Waterproofing Labor",
+                "quantity": "100",
+                "unit": "l. f.",
+                "unit_cost": "6000",
+                "apply_global_tax": "0",
+                "item_type_name": "Labor",
+                "cost_code": ""
+              },
+              {
+                "subject": "Waterproofing Material",
+                "quantity": "100",
+                "unit": "l. f.",
+                "unit_cost": "2500",
+                "apply_global_tax": "0",
+                "item_type_name": "Material",
+                "cost_code": ""
+              }
+            ]
+          }
+        ]
+      }
+}

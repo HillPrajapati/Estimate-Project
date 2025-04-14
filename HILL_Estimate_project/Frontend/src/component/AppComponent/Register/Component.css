@@ -1,0 +1,23 @@
+/* General styles for the Register form */
+.register-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f7fc; 
+    font-family: Arial, sans-serif;
+  }
+  
+  .register-form {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    width: 100%;
+    max-width: 400px; /* Max width for the form */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .register-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
